@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KSmartphone</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+    <string name="kevin_gustian_the">Kevin Gustian The</string>
+    <string name="gustiankevin_gmail_com">gustiankevin@gmail.com</string>
+    <string name="credit_to_gsmarena_com_nfor_smartphone_information">Credit to GSMArena.com\nFor smartphone information</string>
+    <string name="k_smartphone">K Smartphone</string>
+</resources>
